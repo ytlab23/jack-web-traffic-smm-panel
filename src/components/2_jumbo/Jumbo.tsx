@@ -27,13 +27,13 @@ const Jumbo = () => {
               around the world.
             </p>
             <div className="flex flex-col sm:flex-row gap-4">
-              <a href="https://app.websitetrafficsmmpanel.com/reg">
+              <a href="https://app.websitetrafficsmmpanel.com">
                 <Button className="bg-purple-600 hover:bg-purple-700 text-white text-lg px-8 py-4 rounded-full font-semibold transition-all duration-300 shadow-lg hover:shadow-xl">
                   Sign Up
                 </Button>
               </a>
 
-              <a href="https://app.websitetrafficsmmpanel.com/login">
+              <a href="https://app.websitetrafficsmmpanel.com">
                 <Button
                   variant="outline"
                   className="text-purple-600 border-purple-600 hover:bg-purple-100 text-lg px-8 py-4 rounded-full font-semibold transition-all duration-300"

@@ -93,7 +93,7 @@ const Header = () => {
           </nav>
 
           <div className="hidden md:flex items-center justify-end md:flex-1 lg:w-0">
-            <a href="https://app.websitetrafficsmmpanel.com/reg">
+            <a href="https://app.websitetrafficsmmpanel.com">
               <button className="bg-purple-600 hover:bg-purple-700 text-white font-semibold py-3 px-4 rounded-lg">
                 Get Started
               </button>
@@ -120,7 +120,7 @@ const Header = () => {
             ))}
           </div>
           <div className="pt-4 pb-3 border-t border-gray-200">
-            <a href="https://app.websitetrafficsmmpanel.com/reg">
+            <a href="https://app.websitetrafficsmmpanel.com">
               <button className="w-full bg-purple-600 hover:bg-purple-700 text-white font-semibold py-3 px-4 rounded-lg">
                 Get Started
               </button>

@@ -31,7 +31,7 @@ export default function Prising() {
               plan for you.
             </p>
             <div className="flex flex-col sm:flex-row gap-4">
-              <a href="https://app.websitetrafficsmmpanel.com/reg">
+              <a href="https://app.websitetrafficsmmpanel.com">
                 <Button className="bg-purple-600 hover:bg-purple-700 text-white text-lg px-8 py-4 rounded-full font-semibold transition-all duration-300 shadow-lg hover:shadow-xl">
                   Register For Free
                 </Button>
